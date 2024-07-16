@@ -1,6 +1,6 @@
 {
   "expo": {
-    "name": "Weather_Forecast",
+    "name": "Hava durumu",
     "slug": "Weather_Forecast",
     "version": "1.0.0",
     "orientation": "portrait",
@@ -9,7 +9,7 @@
     "splash": {
       "image": "./assets/splash.png",
       "resizeMode": "contain",
-      "backgroundColor": "#ffffff"
+      "backgroundColor": "#000000"
     },
     "ios": {
       "supportsTablet": true
@@ -17,11 +17,17 @@
     "android": {
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
-        "backgroundColor": "#ffffff"
-      }
+        "backgroundColor": "#000000"
+      },
+      "package": "com.smlztrkk.Weather_Forecast"
     },
     "web": {
       "favicon": "./assets/favicon.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "67e3dbb9-ad1f-4a8b-b3d7-c380037988c5"
+      }
     }
   }
 }
