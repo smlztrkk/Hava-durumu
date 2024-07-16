@@ -40,7 +40,7 @@ const screenHeight = Dimensions.get("window").height;
 //?-------------------------------------------------------------------------sayfalara ayır firestore ile şehirleri çek ve listele
 //*-------------------------------------------------------------------------sayfalara ayır firestore ile şehirleri çek ve listele düzenlemeler yap yüksekliginide cominitiden bak safeareaview
 //?-------------------------------------------------------------------------sayfalara ayır firestore ile şehirleri çek ve listele
-//!-------------------------------------------------------------------------sayfalara ayır firestore ile şehirleri çek ve listele -
+//!-------------------------------------------------------------------------sayfalara ayır firestore ile şehirleri çek ve listele ---
 export default function App() {
   return (
     <MyProvider>
